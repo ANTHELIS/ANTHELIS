@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://drive.google.com/drive/u/0/folders/1OkEF20Rdd4zJFxsbR7N7igsH5S0z-g7i"  />
+<img align="right" height="200" src="https://res.cloudinary.com/dw4q3yibv/image/upload/v1766592640/codeBoy_ovsksl.gif"  />
 
 ###
 
