@@ -1,36 +1,24 @@
-# Hi 👋, I'm Mithu Paul
 
-### A passionate Web Developer from India
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._.__nothing__._.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mithu-paul) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mithu_paul_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anthelisofficial@gmail.com) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANTHELIS&label=Profile views&color=0e75b6&style=flat" alt="ANTHELIS" /> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ANTHELIS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ANTHELIS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTHELIS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANTHELIS" alt="ANTHELIS" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ANTHELIS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/Mithu_Paul_" target="blank"><img src="https://img.shields.io/twitter/follow/Mithu_Paul_?logo=twitter&style=for-the-badge" alt="Mithu_Paul_" /></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔭 I'm currently working on **Some Backend-Mini-Projects**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ANTHELIS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🌱 I'm currently learning **Node.js, Express.js and MongoDB**
+---
+[![](https://visitcount.itsvg.in/api?id=ANTHELIS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **anthelisofficial@gmail.com**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1aUwsgSPD6RnOXyDvSJOj43vBoaZXNwvd/view?usp=sharing](https://drive.google.com/file/d/1aUwsgSPD6RnOXyDvSJOj43vBoaZXNwvd/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ANTHELIS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ANTHELIS" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mithu-paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithu-paul" height="30" width="40" /></a>
-<a href="https://kaggle.com/mithupaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mithupaul" height="30" width="40" /></a>
-<a href="https://instagram.com/_._.__nothing__._.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.__nothing__._.__" height="30" width="40" /></a>
-<a href="https://twitter.com/Mithu_Paul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mithu_Paul_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANTHELIS&show_icons=true&locale=en&layout=compact" alt="ANTHELIS" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANTHELIS&show_icons=true&locale=en" alt="ANTHELIS" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANTHELIS&" alt="ANTHELIS" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
