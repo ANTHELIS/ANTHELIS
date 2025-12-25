@@ -46,16 +46,8 @@
 ###
 
 <h2 align="left"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="30" hight="30" /> VS Code Activity</h2>
+
 <!--START_SECTION:waka-->
-
-```txt
-From: 17 December 2025 - To: 24 December 2025
-
-Markdown   11 mins         ███████████████▒░░░░░░░░░   60.83 %
-YAML       6 mins          █████████▒░░░░░░░░░░░░░░░   37.77 %
-Git        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-```
-
 <!--END_SECTION:waka-->
 
 ###
