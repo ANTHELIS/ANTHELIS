@@ -48,6 +48,17 @@
 <h2 align="left"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="30" hight="30" /> VS Code Activity</h2>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 18 December 2025 - To: 25 December 2025
+
+JavaScript   6 hrs 2 mins    ██████████████████████░░░   88.12 %
+Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+EJS          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+YAML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
