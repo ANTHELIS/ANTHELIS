@@ -50,11 +50,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
-JavaScript   17 hrs 21 mins  ███████████████▒░░░░░░░░░   61.03 %
-EJS          10 hrs 38 mins  █████████▒░░░░░░░░░░░░░░░   37.41 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+JavaScript   10 hrs 17 mins  █████████████▒░░░░░░░░░░░   53.40 %
+EJS          8 hrs 42 mins   ███████████▒░░░░░░░░░░░░░   45.17 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
