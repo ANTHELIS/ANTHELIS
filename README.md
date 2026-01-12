@@ -50,10 +50,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2026 - To: 10 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-JavaScript   8 hrs 5 mins    ███████████████▓░░░░░░░░░   62.68 %
-EJS          4 hrs 49 mins   █████████▒░░░░░░░░░░░░░░░   37.32 %
+JavaScript   6 hrs 22 mins   █████████████████▓░░░░░░░   70.65 %
+EJS          2 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.35 %
 ```
 
 <!--END_SECTION:waka-->
