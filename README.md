@@ -50,7 +50,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2026 - To: 13 February 2026
+From: 07 February 2026 - To: 14 February 2026
 
 JavaScript   5 hrs 50 mins   █████████████████▒░░░░░░░   68.72 %
 HTML         1 hr 49 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
