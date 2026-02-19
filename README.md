@@ -50,12 +50,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-CSS          38 mins               ███████████▓░░░░░░░░░░░░░   46.23 %
-HTML         33 mins               ██████████░░░░░░░░░░░░░░░   40.29 %
-Python       6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-TypeScript   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+CSS          38 mins               ████████████▓░░░░░░░░░░░░   50.07 %
+HTML         33 mins               ███████████░░░░░░░░░░░░░░   43.63 %
+TypeScript   4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 ```
 
 <!--END_SECTION:waka-->
