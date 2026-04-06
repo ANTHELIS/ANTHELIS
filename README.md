@@ -50,11 +50,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2026 - To: 04 April 2026
+From: 29 March 2026 - To: 05 April 2026
 
-JavaScript   11 mins               ██████████▒░░░░░░░░░░░░░░   41.39 %
-CSS          8 mins                ███████▓░░░░░░░░░░░░░░░░░   30.37 %
-HTML         7 mins                ███████░░░░░░░░░░░░░░░░░░   28.23 %
+JavaScript   6 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
